@@ -1,0 +1,210 @@
+{
+  "users": [
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "krishna@123",
+      "id": 1
+    },
+    {
+      "name": "Ram",
+      "email": "ram@gmail.com",
+      "password": "ram@123",
+      "id": 2
+    },
+    {
+      "name": "Sitaram",
+      "email": "sitaram@gmail.com",
+      "password": "sitaram@123",
+      "id": 3
+    },
+    {
+      "name": "Sita",
+      "email": "sita@gmail.com",
+      "password": "sita@123",
+      "id": 4
+    },
+    {
+      "name": "Radha",
+      "email": "radha@gmail.com",
+      "password": "radha@123",
+      "id": 5
+    },
+    {
+      "name": "Laxmi",
+      "email": "laxmi@gmail.com",
+      "password": "laxmi@123",
+      "id": 6
+    },
+    {
+      "name": "Shiva",
+      "email": "shiva@gmail.com",
+      "password": "shiva@123",
+      "id": 7
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "krishna@123",
+      "id": 8
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "krishna@123",
+      "id": 9
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "ram@123",
+      "id": 10
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "ram@123",
+      "id": 11
+    },
+    {
+      "name": "krishnaeeeee",
+      "email": "krishna@gmail.com",
+      "password": "ram@123",
+      "id": 12
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 13
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 14
+    },
+    {
+      "name": "kk",
+      "email": "kk",
+      "password": "kkk",
+      "id": 15
+    },
+    {
+      "name": "kk",
+      "email": "kk",
+      "password": "kkk",
+      "id": 16
+    },
+    {
+      "name": "jai",
+      "email": "jai@text.com",
+      "password": "jai@123",
+      "id": 17
+    },
+    {
+      "name": "Abc",
+      "email": "Abc@tesr.com",
+      "password": "abc@123",
+      "id": 18
+    },
+    {
+      "name": "qw",
+      "email": "qw@text.com",
+      "password": "qw@123",
+      "id": 19
+    },
+    {
+      "name": "qwe",
+      "email": "qwe@dmail.com",
+      "password": "qwe@123",
+      "id": 20
+    },
+    {
+      "name": "NewData",
+      "email": "newdat@text.com",
+      "password": "newdata@123",
+      "id": 21
+    },
+    {
+      "name": "Lastnew",
+      "email": "Lasrnew@text.com",
+      "password": "lastnew@123",
+      "id": 22
+    },
+    {
+      "name": "Krishnajay",
+      "email": "kumar@text.com",
+      "password": "kumar@123",
+      "id": 23
+    },
+    {
+      "name": "zx",
+      "email": "zx@gmail.com",
+      "password": "vg@123",
+      "id": 24
+    },
+    {
+      "name": "kr",
+      "email": "kr@mail.com",
+      "password": "kr@123",
+      "id": 25
+    },
+    {
+      "name": "dummy",
+      "email": "dummy@gmail.com",
+      "password": "dummy@123",
+      "id": 26
+    },
+    {
+      "name": "w",
+      "email": "w@gmail.com",
+      "password": "123",
+      "id": 27
+    },
+    {
+      "name": "pawan",
+      "email": "pawan@gmail.com",
+      "password": "pawan",
+      "id": 28
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC India",
+      "address": "Sector-39  Gurugram",
+      "contact": 9372037222
+    },
+    {
+      "id": 2,
+      "name": "Burger HUT India",
+      "address": "Sector-40 Gurugram",
+      "contact": 8877625577
+    },
+    {
+      "id": 3,
+      "name": "Burger KING India ",
+      "address": "Sector-45 Gurugram",
+      "contact": 7600011110
+    },
+    {
+      "id": 4,
+      "name": "The Burger Nation  ",
+      "address": "Sector-47 Gurugram",
+      "contact": 9570890740
+    },
+    {
+      "id": 5,
+      "name": "The Litti Chokha",
+      "address": "M.g Nagar Patna",
+      "contact": 9798990001
+    },
+    {
+      "id": 6,
+      "name": "The Barbeque Nation",
+      "address": "BootNath Road Patna",
+      "contact": 9998979695
+    }
+  ]
+}
